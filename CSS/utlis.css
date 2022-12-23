@@ -1,0 +1,28 @@
+.flex-all-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-left: 10px;
+    padding: 2px;
+    background-color: red;
+    
+}
+.btn:hover{
+    
+   background-color: tomato;
+   font-weight:500;
+    
+    
+}
+.mar-1{
+    margin: 1rem 0;
+}
+.mar-2{
+    margin: 0.5rem 0;
+}
